@@ -8,6 +8,7 @@ import (
 	"os"
 	"strings"
 	"sync"
+	"time"
 
 	"github.com/PullRequestInc/go-gpt3"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
